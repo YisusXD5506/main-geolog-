@@ -1,1 +1,2 @@
-# main-geolog-
+# Geologist
+Geologist Project
